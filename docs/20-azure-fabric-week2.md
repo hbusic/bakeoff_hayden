@@ -25,7 +25,7 @@ Governance tasks in Microsoft Fabric: verify data ingestion, confirm catalog, ad
 ![Alt text for image](./onelakecatalog_bronzesales.png)
 
 - Govern tab insights  
-![Alt text for image](./OneLake catalog governance report (automatically generated) (1).pdf)
+[OneLake Catalog Governance Report](./OneLake%20catalog%20governance%20report%20(automatically%20generated)%20(1).pdf)
 
 ## Limitations
 - Run scans to auto-discover tables: ❌ not available (Purview-only).
