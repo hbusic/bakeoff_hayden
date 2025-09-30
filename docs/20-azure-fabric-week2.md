@@ -13,16 +13,19 @@ Governance tasks in Microsoft Fabric: verify data ingestion, confirm catalog, ad
 
 ## Screenshots
 - Bronze Sales table in Lakehouse  
-
+(./bronze_sales.png)
 
 - HR PDFs in File Explorer  
+(./hr_pdfs.png)
 
+- Lakehouse Description
+(./bakeoff_description.png)
 
 - OneLake Catalog view with Bronze Sales  
-
+(./onelakecatalog_bronzesales.png)
 
 - Govern tab insights  
-
+(./OneLake catalog governance report (automatically generated) (1).pdf)
 
 ## Limitations
 - Run scans to auto-discover tables: ❌ not available (Purview-only).
